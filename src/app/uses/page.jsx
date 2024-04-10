@@ -9,7 +9,7 @@ const UsesSection = () => {
   const intro = {
     title: "Software I use, gadgets I love, and other things I recommend.",
     introduction:
-      "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.",
+      "Listed below is what I have to work with and what I use to make my work and projects be successful. I am new to all of this so if you have already upgraded you are way ahead of me and I should take your advice!",
   };
 
   const items = [
@@ -17,32 +17,32 @@ const UsesSection = () => {
       groupName: "Workstation",
       items: [
         {
-          title: "16” MacBook Pro, M1 Max, 64GB RAM (2022)",
+          title: "12” Surface Pro, Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz   1.50 GHz, 16GB RAM (2022)",
           description:
             "I was using an Intel-based 16” MacBook Pro prior to this and the difference is night and day. I’ve never heard the fans turn on a single time, even under the incredibly heavy loads I put it through with our various launch simulations.",
         },
         {
-          title: "Dell UltraSharp U2717D",
+          title: "LG 19 inch Windows Machine, Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz   1.50 GHz , 32Gb RAM, 1TB SSD (2020)",
           description:
             "I have two of these monitors and they’re great. I’ve had them for years and they’ve been rock solid.",
         },
         {
-          title: "Keychron K2",
+          title: "Dell 27 inch 4k Monitor",
           description:
             "I’ve been using this keyboard for a few years now and I love it. It’s wireless, has a great feel, and the battery lasts forever.",
         },
         {
-          title: "Logitech MX Master 3",
+          title: "Dell Mouse",
           description:
             "I’ve been using this mouse for a few years now and it’s great. It’s wireless, has a great feel, and the battery lasts forever.",
         },
         {
-          title: "Audio-Technica ATH-M50x",
+          title: "Dell Keyboard",
           description:
             "I’ve been using these headphones for a few years now and they’re great. They’re comfortable, sound good, and are built like a tank.",
         },
         {
-          title: "Rain Design mStand",
+          title: "Microsoft Xbox Headset",
           description:
             "I’ve been using this stand for my MacBook Pro for a few years now and it’s great. It’s sturdy, looks good, and keeps my laptop cool.",
         },

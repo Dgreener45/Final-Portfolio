@@ -14,22 +14,22 @@ export const metadata = {
 
 const articles = [
   {
-    date: "December 25, 2023",
-    title: "Lorem ipsum dolor sit ame",
+    date: "April 9, 2024",
+    title: "IT Specialist",
     content:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...",
     link: "#",
   },
   {
-    date: "December 25, 2023",
-    title: "Lorem ipsum dolor sit ame",
+    date: "April 10, 2024",
+    title: "Being a Father",
     content:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...",
     link: "#",
   },
   {
-    date: "December 25, 2023",
-    title: "Lorem ipsum dolor sit ame",
+    date: "April 2, 2024",
+    title: "Being a Believer in Christ",
     content:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...",
     link: "#",
@@ -38,17 +38,17 @@ const articles = [
 
 const intro = {
   image: "profile.jpeg",
-  title: "Software engineer, father, and believer",
+  title: "IT Specialist, Father, Believer, and Student",
   introduction:
-    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
-  linkedIn_link: "https://www.linkedin.com",
+    "This portfolio is to show what I have learned this semester and proves an understanding in Java Script. I am a father to a beautiful 1 year old girl. I am currently studying for a BAS in CyberSecurity at ensign business college. I am a Member of the Church of Jesus Christ of Latter Day Saints.",
+  linkedIn_link: "https://www.linkedin.com/in/dexter-greener-b1b757193/",
   x_link: "https://www.twitter.com",
-  github_link: "https://www.github.com",
+  github_link: "https://github.com/Dgreener45/Final-Portfolio",
 };
 
 const skills = [
-  { name: "HTML", proficiency: 60, icon: "html5.png" },
-  { name: "CSS", proficiency: 50, icon: "css3.png" },
+  { name: "HTML", proficiency: 70, icon: "html5.png" },
+  { name: "CSS", proficiency: 40, icon: "css3.png" },
   { name: "JavaScript", proficiency: 75, icon: "javascript.png" },
 ];
 
@@ -91,7 +91,7 @@ export default function Home() {
                 organization: "Slack",
                 jobTitle: "Software Engineer",
                 startYear: 2016,
-                endYear: null,
+                endYear: 2020,
               },
               {
                 logo: "/spotify.png",

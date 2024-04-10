@@ -3,15 +3,15 @@ import Footer from "@/components/Footer/Footer";
 import "./About.css";
 
 export const metadata = {
-  title: "I'm Jane. I live in New York City, Where I develop the future.",
+  title: "I'm Dexter. I live in Eagle Mountain, as a student at Ensign College and an Employee for the Church of Jesus Christ of Latter-Day Saints.",
   paragraph1:
-    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
+    "I am a student at Ensign College, Studying CyberSecurity, I do school part-time so that I can be a fulltime employee as well as a fulltime father and husband. I hope to be finished in 2025 and pursue a career in CyberSecurity.",
   paragraph2:
-    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
+    "I am Currently Employed with the Church of Jesus Christ of Latter-day Saints, where I hold the position of an IT specialist for Account Management and Networks. I have been working for the Church for around 4 years now and will continue with them while in school and hopefully find a position in their SecOps team.",
   paragraph3:
-    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
+    "I am a father of my one year old girl Bellamie, she is a little trouble maker and knows how to make a crowd smile and laugh, I think she gets it from her father. My wife would also want me to let you know I am techincally a father to 4 dogs as well, Dineo, Mia, Titan and Agnus. They are not small dogs either. Lets just say there is always a mess or two at our house. We just bought a house in Eagle Mountain and are learning how to enjoy long drives to get anywhere.",
   paragraph4:
-    "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..",
+    "If you have any questions or concerns please reach out to me in any of the ways listed below, and I would love to let you get to know me better.",
 };
 
 export default function About() {
@@ -39,7 +39,7 @@ export default function About() {
           <img src="about.jpeg" alt="Profile Picture" className="picture" />
         </div>
         <div className="socials">
-          <a href="https://www.twitter.com/janedoe">
+          <a href="https://www.twitter.com">
             <svg
               width="20"
               height="20"
@@ -55,7 +55,7 @@ export default function About() {
             </svg>{" "}
             Follow me on X
           </a>
-          <a href="https://www.github.com/janedoe">
+          <a href="https://github.com/Dgreener45/Final-Portfolio">
             <svg
               width="20"
               height="20"
@@ -73,7 +73,7 @@ export default function About() {
             </svg>{" "}
             Follow me on GitHub
           </a>
-          <a href="https://www.linkedin.com/in/jane-doe">
+          <a href="https://www.linkedin.com/in/dexter-greener-b1b757193/">
             <svg
               width="18"
               height="18"
@@ -91,7 +91,7 @@ export default function About() {
           </a>
         </div>
         <div className="email">
-          <a href="mailto:jhondo@gmail.com" id="email-a">
+          <a href="mailto:Dgreener97@gmail.com" id="email-a">
             <svg
               width="22"
               height="18"
