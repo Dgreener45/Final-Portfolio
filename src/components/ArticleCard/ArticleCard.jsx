@@ -10,7 +10,7 @@ const ArticleCard = ({ date, title, content, link }) => {
       </div>
       <p data-testid={'articleCardContent'}>{content}</p>
       <a data-testid={'articleCardLink'} href={link}>
-        Read article
+        Go there!
       </a>
     </article>
   );

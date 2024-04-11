@@ -18,21 +18,21 @@ const articles = [
     title: "IT Specialist",
     content:
       "I am an IT Specialist and This is why I built the Uses page as it explains what I use while at work and focusing within the Uses page. Please check out Uses to see what my uses and preferences.",
-    link: "#",
+    link: "https://ominous-disco-jjrrvrrgv459fjpxw-3000.app.github.dev/about",
   },
   {
     date: "April 10, 2024",
     title: "Being a Father",
     content:
       "The about page talks about who I am and what my meanings of life is. If you want to learn more about me go to the about page and see who I am.",
-    link: "#",
+    link: "https://ominous-disco-jjrrvrrgv459fjpxw-3000.app.github.dev/uses",
   },
   {
     date: "April 2, 2024",
     title: "Being a Believer in Christ",
     content:
       "Projects show who I am and how my previous jobs have made me a better person and a harder worker. There are opportunities to learn in all things. Please go to the projects page to see what I have overcome and what I am becoming.",
-    link: "#",
+    link: "https://ominous-disco-jjrrvrrgv459fjpxw-3000.app.github.dev/projects",
   },
 ];
 
