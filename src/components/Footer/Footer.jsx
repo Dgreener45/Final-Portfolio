@@ -18,7 +18,7 @@ function Footer() {
           </li>
         ))}
       </ul>
-      <p data-testid="footerContent">© John Doe All rights reserved. {new Date().getFullYear()}</p>
+      <p data-testid="footerContent">© Dexter Greener All rights reserved. {new Date().getFullYear()}</p>
     </footer>
   );
 }

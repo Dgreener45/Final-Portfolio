@@ -19,17 +19,17 @@ const UsesSection = () => {
         {
           title: "12” Surface Pro, Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz   1.50 GHz, 16GB RAM (2022)",
           description:
-            "I was using an Intel-based 16” MacBook Pro prior to this and the difference is night and day. I’ve never heard the fans turn on a single time, even under the incredibly heavy loads I put it through with our various launch simulations.",
+            "I use this as my portable take anywhere, to go device as it has enough juice to get the job done.",
         },
         {
           title: "LG 19 inch Windows Machine, Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz   1.50 GHz , 32Gb RAM, 1TB SSD (2020)",
           description:
-            "I have two of these monitors and they’re great. I’ve had them for years and they’ve been rock solid.",
+            "This is my home device that I use for big projects as well as a few servers for others things. It has enough power and storage to have a good workstation.",
         },
         {
           title: "Dell 27 inch 4k Monitor",
           description:
-            "I’ve been using this keyboard for a few years now and I love it. It’s wireless, has a great feel, and the battery lasts forever.",
+            "I’ve been using these Monitors for a few years now and I love it. It’s 4k, has a great Visual, and the multiple screens help with the projects.",
         },
         {
           title: "Dell Mouse",
@@ -39,12 +39,12 @@ const UsesSection = () => {
         {
           title: "Dell Keyboard",
           description:
-            "I’ve been using these headphones for a few years now and they’re great. They’re comfortable, sound good, and are built like a tank.",
+            "I’ve been using this keyboard for a few years now and they’re great. They’re comfortable, keys feel good, and are built like a tank.",
         },
         {
           title: "Microsoft Xbox Headset",
           description:
-            "I’ve been using this stand for my MacBook Pro for a few years now and it’s great. It’s sturdy, looks good, and keeps my laptop cool.",
+            "I’ve been using this Headset for my computers for a few years now and it’s great. It’s sturdy, sounds good, and mic works well.",
         },
       ],
     },

@@ -17,27 +17,27 @@ const articles = [
     date: "April 9, 2024",
     title: "IT Specialist",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...",
+      "I am an IT Specialist and This is why I built the Uses page as it explains what I use while at work and focusing within the Uses page. Please check out Uses to see what my uses and preferences.",
     link: "#",
   },
   {
     date: "April 10, 2024",
     title: "Being a Father",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...",
+      "The about page talks about who I am and what my meanings of life is. If you want to learn more about me go to the about page and see who I am.",
     link: "#",
   },
   {
     date: "April 2, 2024",
     title: "Being a Believer in Christ",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...",
+      "Projects show who I am and how my previous jobs have made me a better person and a harder worker. There are opportunities to learn in all things. Please go to the projects page to see what I have overcome and what I am becoming.",
     link: "#",
   },
 ];
 
 const intro = {
-  image: "profile.jpeg",
+  image: "Second profile.jpg",
   title: "IT Specialist, Father, Believer, and Student",
   introduction:
     "This portfolio is to show what I have learned this semester and proves an understanding in Java Script. I am a father to a beautiful 1 year old girl. I am currently studying for a BAS in CyberSecurity at ensign business college. I am a Member of the Church of Jesus Christ of Latter Day Saints.",
@@ -118,7 +118,7 @@ export default function Home() {
           />
           <SkillsWidget
             title={"Skills"}
-            content={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi."}
+            content={"These are how I feel I excell and feel what my skills are."}
             skills={skills}
           />
         </div>

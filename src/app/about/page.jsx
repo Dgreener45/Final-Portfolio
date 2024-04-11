@@ -36,7 +36,7 @@ export default function About() {
       </div>
       <div id="main_right">
         <div id="profile-picture">
-          <img src="about.jpeg" alt="Profile Picture" className="picture" />
+          <img src="Fam Pic.jpg" alt="Profile Picture" className="picture" />
         </div>
         <div className="socials">
           <a href="https://www.twitter.com">
