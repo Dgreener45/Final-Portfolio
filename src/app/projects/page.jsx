@@ -16,7 +16,7 @@ export const metadata = {
     {
       company: "ZipFizz",
       description: "This Company taught me how to Communicate as I was a sales, I have grown an ability to speak to others and have conversations that are more meaningful.",
-      link: "https://zipfizz.com/products/sample-pack?gclid=Cj0KCQjwztOwBhD7ARIsAPDKnkB_GTl2sO55ZFVEOdLhS77g9VIpPcBDIHb_K3W734eqpgFDA-CLvp8aAo4XEALw_wcB",
+      link: "https://zipfizz.com/",
     },
     {
       company: "McDonalds",
@@ -31,7 +31,7 @@ export const metadata = {
     {
       company: "Slack",
       description: "Creating technology to empower civilians to explore space on their own terms.",
-      link: "https://app.slack.com/client/T06CCCCMBPY/dms",
+      link: "https://app.slack.com/",
     },
     {
       company: "Ensign College",
